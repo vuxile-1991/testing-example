@@ -1,4 +1,5 @@
 .idea/
 drivers/*
+.allure/
 .allure-results/*
 drivers/
